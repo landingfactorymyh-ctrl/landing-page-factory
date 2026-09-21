@@ -1,0 +1,20 @@
+Traffic category,Traffic source,Site sessions,Clicks-to-contact,Click-to-contact rate
+direct,direct,"1,336",61,5%
+organic_search,Google,652,26,4%
+social,Instagram,42,3,7%
+ai_platform,ChatGPT,26,0,0%
+social,Facebook,16,0,0%
+organic_search,Bing,14,0,0%
+organic_search,Yahoo,5,0,0%
+organic_search,DuckDuckGo,4,0,0%
+social,Youtube,4,1,25%
+referral,Google,4,0,0%
+referral,wix.com,3,0,0%
+referral,canva.com,2,0,0%
+ai_platform,Perplexity AI,2,0,0%
+referral,hvaraway.com,2,0,0%
+ai_platform,Gemini,1,0,0%
+referral,fiverr.com,1,0,0%
+organic_search,ecosia.org,1,0,0%
+referral,tripadvisor.com,1,0,0%
+wix_automations,Automated email,1,0,0%
